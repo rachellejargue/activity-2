@@ -1,0 +1,29 @@
+!DOCTYPE html>
+<html>
+
+    <head>
+        <meta charset="utf-8">
+        <meta name="Viewport"content="Width=width-device,initial scale 1">
+        <link rel="stylesheet"href="design.css">
+        <title>ACTIVITY 2</title>
+    </head>
+
+        <body>
+            <h1>ACTIVITY 2</h1>
+            <hr>
+            <h3>Welcome to my website</h3>
+            <hr>
+
+            <h2><a href="https://www.facebook.com/" target="_blank"><img src="Lagay nyo dito yung image ng facebook"width="150" height="150"> </a> </h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum reprehenderit in a quaerat, quibusdam facilis magni nobis et nemo maiores sed libero officiis, repellat praesentium eaque voluptate fugiat. Quod, repellat eos? Suscipit reprehenderit, debitis nobis odit iusto consectetur sint dolor neque ratione quibusdam doloribus sapiente laudantium fugiat nulla sed assumenda!</p>
+            <h2><a href="https://www.google.com/"target="_blank"><img src="Lagay nyo dito yung image ng google"width="150" height="150"> </a> </h2>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis optio provident alias iusto autem, omnis est dignissimos. Earum non architecto quo fugiat est id ullam possimus harum ab odio aspernatur cum suscipit eum officiis accusamus impedit quod similique, aperiam, ipsum illum, error asperiores necessitatibus. Accusantium deleniti incidunt deserunt nam? Autem.</p>
+            <h2><a href="https://www.youtube.com/"target="_blank"><img src="Lagay nyo dito yung image ng youtube"width="150" height="150"> </a> </h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Temporibus laborum impedit similique quos recusandae vitae odit ipsum molestiae illo amet ullam iste necessitatibus, laudantium autem illum fuga? Quam nisi eos placeat velit. Distinctio excepturi dolorem dolor deserunt repellat ipsum ab voluptate natus alias soluta, mollitia, tempora voluptates sint vero nulla.</p>
+            <h2><a href="https://www.instagram.com/"target="_blank"><img src="Lagay nyo dito yung image ng Instagram"width="150" height="150"> </a> </h2>
+                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde amet fugiat consequatur laboriosam sit ad, incidunt natus, vitae dignissimos accusantium earum reprehenderit aperiam officiis at optio impedit corrupti nihil velit totam sequi expedita quasi. Vero eum, perferendis reprehenderit illo sint explicabo molestias, minus eos voluptatem doloribus esse ipsum rem doloremque!</p>
+                 <h2><a href="https://www.tiktok.com/foryou?is_copy_url=1&is_from_webapp=v1"target="_blank"><img src="Lagay nyo dito yung image ng Tiktok"width="150" height="150"> </a> </h2>
+                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum sit illo iste non corrupti placeat excepturi modi sapiente qui accusamus ea eius, dicta iure aperiam architecto repellat repellendus omnis libero inventore magnam. Sunt dolorem eaque illo officia neque numquam rerum, iste aut est inventore! Dignissimos explicabo soluta non aliquam sint.</p>
+                   
+        </body>
+</html>
